@@ -1,0 +1,1 @@
+# PostgreSQL-JPA-Hibernate-persistence.xml
