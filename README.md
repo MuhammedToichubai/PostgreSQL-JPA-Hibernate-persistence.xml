@@ -16,8 +16,8 @@
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://localhost/database"/>
-            <property name="jakarta.persistence.jdbc.user" value="postgres"/>
-            <property name="jakarta.persistence.jdbc.password" value="yiman"/>
+            <property name="jakarta.persistence.jdbc.user" value="username"/>
+            <property name="jakarta.persistence.jdbc.password" value="password"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
             <property name="hibernate.hbm2ddl.auto" value="create" /> <!-- create / create-drop / update -->
             <property name="hibernate.show_sql" value="true"/>
